@@ -1,0 +1,13 @@
+{
+	"bot": {
+		"token": "YOUR-TOKEN-HERE",
+		"prefix": "!",
+		"command": "request",
+		"commandChannelId": "685696629042708558",
+		"outputChannelId": "685696637611540547",
+		"reaction": "✅",
+		"embedcolor": "#17cceb",
+		"embedTitle": "Some Title",
+		"embedFooter": "Use ✅ to vote for this request. If you would like to make a new request check #new-requests"
+	}
+}
